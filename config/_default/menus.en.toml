@@ -1,0 +1,25 @@
+[[main]]
+  name = 'Home'
+  identifier = "home"
+  pageRef = '/'
+  weight = 10
+
+[[main]]
+  name = 'Artikel'
+  identifier = "artikel"
+  pageRef = '/blog'
+  weight = 20
+
+[[main]]
+  name = 'Data Desa'
+  identifier = "datadesa"
+  pageRef = '/data-desa'
+  weight = 30
+
+[[main]]
+  name = 'YouTube'
+  identifier = "link"
+  pageRef = 'https://www.youtube.com/channel/UC5XEVo80aTHrjhLxxJMrVYQ'
+  weight = 30
+
+
