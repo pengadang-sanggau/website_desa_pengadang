@@ -10,3 +10,5 @@ series = 'headline'
 Ritual ini dilaksanakan untuk meminta izin kepada nenek moyang, yang dianggap dapat membersihkan aura negatif, dilaksanakan dengan membersihkan lokasi ritual, membawa sesajen berupa makanan, lalu berdoa kepada leluhur yang dipimpin oleh seorang tetua desa.
 
 <!--more-->
+
+{{< youtube "j2uzaX14Rhc" >}} "Video ritual izin membuka lahan baru yang dilaksanakan di Desa Pengadang"

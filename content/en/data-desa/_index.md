@@ -1,12 +1,9 @@
 +++
 title = 'Data Desa'
-[params]
-  author = 'Desa Pengadang'
+date = 2024-07-18T12:43:19+08:00
+draft = false
+weight = 1
 +++
 
-Di sini terletak segala data mengenai Desa Pengadang, seperti struktur organisasi pemerintahan desa dan visi misi.
-
-
 <!--more-->
-
 
