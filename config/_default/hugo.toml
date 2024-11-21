@@ -1,4 +1,3 @@
-baseURL = 'https://genway.com.cn/'
 theme = 'hugo-theme-walden'
 
 defaultContentLanguage = 'en'
