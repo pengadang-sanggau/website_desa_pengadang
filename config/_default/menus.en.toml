@@ -19,7 +19,7 @@
 [[main]]
   name = 'YouTube'
   identifier = "link"
-  pageRef = 'https://www.youtube.com/channel/UC5XEVo80aTHrjhLxxJMrVYQ'
+  url = 'https://www.youtube.com/channel/UC5XEVo80aTHrjhLxxJMrVYQ'
   weight = 30
 
 
