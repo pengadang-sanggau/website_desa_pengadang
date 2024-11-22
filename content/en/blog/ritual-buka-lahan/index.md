@@ -1,5 +1,5 @@
 +++
-title = 'Ritual Izin Pembukaan Lahan Baru'
+title = 'Semeyang Jerant Meh'
 date = 2020-10-27
 draft = false
 categories = 'artikel'
@@ -7,8 +7,11 @@ tags = ['Baca']
 series = 'headline'
 +++
 
-Ritual ini dilaksanakan untuk meminta izin kepada nenek moyang, yang dianggap dapat membersihkan aura negatif, dilaksanakan dengan membersihkan lokasi ritual, membawa sesajen berupa makanan, lalu berdoa kepada leluhur yang dipimpin oleh seorang tetua desa.
+
+Semeyang Jerant Meh, atau Sembayang Jalan Ladang adalah tradisi masyarakat Desa Pengadang untuk memohon ijin dan meminta berkat dari Sang Pencipta.
 
 <!--more-->
 
-{{< youtube "j2uzaX14Rhc" >}} "Video ritual izin membuka lahan baru yang dilaksanakan di Desa Pengadang"
+Tradisi ini dilaksanakan setiap tahun dengan berkumpul pada suatu ladang untuk membuat sesajen bersama dan bersilaturahmi, agar kedepannya masyarakat desa dapat diberikan keselamatan, dan ladang diberkati oleh Sang Pencipta. Kegiatan ini dapat ditonton dalam video berikut ini:
+
+{{< youtube "V2XRpS7bGdY" >}} "Video Semeyang Jerant Meh yang dilaksanakan di Desa Pengadang"
