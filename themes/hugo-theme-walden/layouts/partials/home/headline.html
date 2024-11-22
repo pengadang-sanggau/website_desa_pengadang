@@ -1,4 +1,4 @@
-{{ range first 1 (where .Site.RegularPages "Params.series" "headline")  }}
+{{ range first 1 (where .Site.RegularPages.Reverse "Params.series" "headline")  }}
     {{ with .Resources.Get "headline.jpg" }}
     <div class="headline" style="background: url({{ .RelPermalink }}) center center no-repeat;">
     {{ end }}

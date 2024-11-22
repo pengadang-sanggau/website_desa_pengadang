@@ -1,12 +1,11 @@
 +++
 title = 'Semeyang Jerant Meh'
-date = 2024-11-23
+date = 2024-06-28
 draft = false
 categories = 'artikel'
 tags = ['Baca']
 series = 'headline'
 +++
-
 
 Semeyang Jerant Meh, atau Sembayang Jalan Ladang adalah tradisi masyarakat Desa Pengadang untuk memohon ijin dan meminta berkat dari Sang Pencipta.
 

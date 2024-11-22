@@ -1,5 +1,5 @@
 
-{{ range after 1 (first 7 (where .Site.RegularPages "Params.series" "headline")) }}
+{{ range after 1 (first 7 (where .Site.RegularPages.Reverse "Params.series" "headline")) }}
 <div class="card-container">
     <div class="card-headline">
         <div class="card-headline-thumbnail">
@@ -18,5 +18,3 @@
     </div>
 </div>
 {{ end }}
-
-
