@@ -5,5 +5,4 @@ draft = false
 weight = 1
 +++
 
-<!--more-->
-
+Data Desa berisi visi misi desa, letak desa, dan struktur organisasi desa.

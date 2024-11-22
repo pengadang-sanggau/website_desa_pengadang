@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artikel on Desa Pengadang</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Artikel on Desa Pengadang</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Mon, 29 Jul 2024 14:26:19 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Desa Pengadang</title>
+      <link>//localhost:1313/blog/profil-desa/</link>
+      <pubDate>Mon, 29 Jul 2024 14:26:19 +0800</pubDate>
+      <guid>//localhost:1313/blog/profil-desa/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Website&lt;/i&gt; ini dibuat untuk mengenalkan Desa Pengadang kepada publik. Adanya &lt;i&gt;website&lt;/i&gt; ini diharapkan agar penduduk Desa Pengadang, maupun masyarakat di luar Desa Pengadang dapat melihat data-data, sarana, struktur organisasi pemerintahan desa, maupun hal-hal yang pernah diadakan oleh masyarakat desa seperti perayaan masa panen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rumah Panca Puntu Mang Pihit</title>
+      <link>//localhost:1313/blog/rumah/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/rumah/</guid>
+      <description>&lt;p&gt;Rumah Panca Puntu Mang Pihit adalah rumah adat Kalimantan Selatan, peninggalan suku Dayak Paus yang bernama Panca Puntu Mang Pihit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semeyang Jerant Meh</title>
+      <link>//localhost:1313/blog/ritual-buka-lahan/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/ritual-buka-lahan/</guid>
+      <description>&lt;p&gt;Semeyang Jerant Meh, atau Sembayang Jalan Ladang adalah tradisi masyarakat Desa Pengadang untuk memohon ijin dan meminta berkat dari Sang Pencipta.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
