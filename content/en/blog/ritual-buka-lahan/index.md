@@ -1,6 +1,6 @@
 +++
 title = 'Semeyang Jerant Meh'
-date = 2020-10-27
+date = 2024-11-23
 draft = false
 categories = 'artikel'
 tags = ['Baca']

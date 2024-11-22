@@ -1,6 +1,6 @@
 +++
 title = 'Rumah Panca Puntu Mang Pihit'
-date = 2024-07-18
+date = 2024-11-23
 draft = false
 categories = 'artikel'
 tags = ['Baca']
