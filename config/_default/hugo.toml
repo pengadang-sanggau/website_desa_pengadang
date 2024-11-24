@@ -1,5 +1,3 @@
-theme = 'hugo-theme-walden'
-
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
